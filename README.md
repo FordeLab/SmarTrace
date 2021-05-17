@@ -9,8 +9,7 @@ Images to be analyzed should be in the same directory.
 
 To use SmarTrace, you need to download DIPlib, which can be found on GitHub. 
 
-
-~Installation~
+**Installation**
 
 Move the SmarTrace folder into a directory of your choice, then save the directory to the MATLAB path.
 
@@ -18,7 +17,7 @@ ex: |savepath('C:\Program Files\matlab\SmarTrace');
     |savepath('C:\Project\Chain Tracing\SmarTrace');
 
 
-~Using SmarTrace~
+**Using SmarTrace**
 
 1- To use SmarTrace, you will need to initialise DIPimage first:
 
