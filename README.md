@@ -1,5 +1,6 @@
 # SmarTrace
 Chain tracing program developed to analyze AFM images of single-molecules. Can be used on any type of image with bright chain-like structures on a darker background. 
+More information about SmarTrace can found in the following publication: Rezaei, N., Lyons, A. & Forde, N. R. Environmentally controlled curvature of single collagen proteins. Biophys. J. 115, 1457–1469 (2018).
 
 **BEFORE USE**
 
