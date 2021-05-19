@@ -1,5 +1,8 @@
 # SmarTrace
 Chain tracing program developed to analyze AFM images of filaments such as collagen and DNA. Can be used on any type of image with bright chain-like structures on a darker background. 
+
+Software was developed by Naghmeh Rezaei while a PhD student at Simon Fraser University.  The program is described in her PhD thesis (2016, Simon Fraser University).
+
 More information about SmarTrace can found in the following publication: N. Rezaei, A. Lyons, & N.R. Forde, Environmentally controlled curvature of single collagen proteins. Biophys. J. 115, 1457–1469 (2018).
 
 Graphical User Interface is adapted from the EasyWorm GUI: G. Lamour, J.B. Kirkegaard, H. Li, T.P.J. Knowles & J. Gsponer, Source Code for Biology and Medicine 9,16 (2014).
