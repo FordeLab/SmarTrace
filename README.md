@@ -1,4 +1,4 @@
-~SmarTrace Manual~
+#SmarTrace Manual
 
 Chain tracing program developed to analyze AFM images of filaments such as collagen and DNA. Can be used on any type of image with bright chain-like structures on a darker background. 
 
