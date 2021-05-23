@@ -1,0 +1,15 @@
+How to use SmarTrace? 
+
+1- To use the tracing program you need to open SmarTrace.m file and run it and GUI will open. 
+2- Load the image of interest. 
+3- Enter the image resolution: nm per px
+4- Click on “Select chain” button.
+5 - Click at both ends of chain of interest and press “Z”. This zooms the image around the chain of interest.
+6- By pressing “D” on keyboard you can delete the already selected points and re-select them.
+7- At the same time you are choosing along the chain, a tentative contour approximates an spline passing through the user selected points. By Visual inspection make sure it is not too far off from the chain. 
+8- Press “enter” and wait for the program to trace the chain backbone. After the analysis a red curve will be plotted on the chain.
+9- If you are happy with the traced chain click on “Add Chain”
+10- Increase the “chain number” by 1 unit and the image zooms out. You can always re-select a previously analyzed chain by going to that “chain number”.
+11- Finally set the file name (without “.mat”) and save the results by pressing “save data” and a “.mat” file will be saved. This file is ready for analysis in SmTranalysis1.m code. 
+
+
