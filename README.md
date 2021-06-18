@@ -22,6 +22,11 @@ Move the SmarTrace folder into a directory of your choice, then save the directo
 ex: |savepath('C:\Program Files\matlab\SmarTrace');
     |savepath('C:\Project\Chain Tracing\SmarTrace');
 
+The following MATLAB toolboxes are required:
+- Signal Processing Toolbox
+- Statistics and Machine Learning Toolbox
+- Image Processing Toolbox
+
 
 **Using SmarTrace**
 
