@@ -1,6 +1,6 @@
 #SmarTrace Manual
 
-Chain tracing program developed to analyze AFM images of filaments such as collagen and DNA. Can be used on any type of image with bright chain-like structures on a darker background. 
+Chain tracing program developed to analyze and extract persistence lengths from AFM images of filaments such as collagen and DNA. Can be used on any type of image with bright chain-like structures on a darker background. 
 
 Software was developed by Naghmeh Rezaei while a PhD student at Simon Fraser University.  The program is described in her PhD thesis (2016, Simon Fraser University).
 
